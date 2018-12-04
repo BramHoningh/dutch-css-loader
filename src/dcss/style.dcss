@@ -1,3 +1,9 @@
 .title {
-    achtergrond-kleur: blauw;
+    ruimte-boven: 20pixels;
+    tekst-kleur: wit;
+    achtergrond-kleur: groen;
+}
+
+.footer {
+    tekst-grootte: 14pixels;
 }

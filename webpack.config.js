@@ -7,9 +7,17 @@ module.exports = {
     filename: 'bundle.js',
     publicPath: "/dist"
   },
+  devServer: {
+    stats: 'errors-only',
+    host: process.env.HOST,
+    port: process.env.PORT,
+    overlay: true,
+    hot: false,
+  },
   resolveLoader: {
     modules: ['node_modules', path.resolve(__dirname, 'loaders')],
   },
+  watch: true,
   module: {
     rules: [
       {
