@@ -4,6 +4,6 @@
     achtergrond-kleur: groen;
 }
 
-.footer {
-    tekst-grootte: 14pixels;
+.test {
+    tekst-grootte: 20pixels;
 }
