@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c5795ff-8fb7-4ab4-bf97-b2946ebbc1eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/loaders/lib/directives/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loaders/lib/values/Colors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loaders/lib/values/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loaders/lib/values/colors.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loaders/dutch-css-loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/loaders/dutch-css-loader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loaders/lib/ParseDcss.js" beforeDir="false" afterPath="$PROJECT_DIR$/loaders/lib/ParseDcss.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dcss/style.dcss" beforeDir="false" afterPath="$PROJECT_DIR$/src/dcss/style.dcss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loaders/lib/values/Colors.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -76,12 +70,12 @@
         <counts>
           <entry key="dcss" value="285" />
           <entry key="js" value="4368" />
-          <entry key="json" value="95" />
+          <entry key="json" value="327" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="95" />
+          <entry key="JSON" value="327" />
           <entry key="JavaScript" value="4368" />
           <entry key="PLAIN_TEXT" value="285" />
         </counts>
@@ -97,10 +91,12 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="js" value="9" />
+          <entry key="json" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="JSON" value="1" />
           <entry key="JavaScript" value="9" />
         </counts>
       </usages-collector>
@@ -171,11 +167,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/loaders/lib/directives/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="15">
+              <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -189,11 +185,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/loaders/lib/values/Colors.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/loaders/lib/values/colors.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            <state relative-caret-position="1033">
+              <caret line="145" column="19" lean-forward="true" selection-start-line="145" selection-start-column="19" selection-end-line="145" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -221,6 +217,7 @@
         <option value="$PROJECT_DIR$/loaders/lib/rules/index.js" />
         <option value="$PROJECT_DIR$/loaders/lib/directives/index.js" />
         <option value="$PROJECT_DIR$/loaders/lib/ParseDcss.js" />
+        <option value="$PROJECT_DIR$/loaders/lib/values/colors.json" />
       </list>
     </option>
   </component>
@@ -337,12 +334,12 @@
       <workItem from="1543661527993" duration="191000" />
       <workItem from="1543664257812" duration="6920000" />
       <workItem from="1544007371112" duration="5088000" />
-      <workItem from="1544015038872" duration="4396000" />
+      <workItem from="1544015038872" duration="7205000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22650000" />
+    <option name="totallyTimeSpent" value="25459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1337" extended-state="0" />
@@ -418,20 +415,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/loaders/lib/values/Colors.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loaders/lib/values/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -483,8 +466,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/loaders/lib/directives/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="15">
+          <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loaders/lib/values/Colors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loaders/lib/values/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loaders/lib/values/colors.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1033">
+          <caret line="145" column="19" lean-forward="true" selection-start-line="145" selection-start-column="19" selection-end-line="145" selection-end-column="19" />
         </state>
       </provider>
     </entry>
