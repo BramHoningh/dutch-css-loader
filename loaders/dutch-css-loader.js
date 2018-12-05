@@ -6,7 +6,7 @@ module.exports = function(content, map, meta) {
   const parsedDcss = parseDcss(content);
   console.log('========== PARSED DCSS ==========');
   console.log(parsedDcss);
-  console.log('======== END PARSED DCSS ===========');
+  console.log('======== END PARSED DCSS ===========' );
 
 
   this.callback(null, returnType, map, meta);

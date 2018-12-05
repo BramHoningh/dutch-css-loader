@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server --mode development",
-    "start": "nodemon --watch ./loaders/dutch-css-loader.js --exec webpack-dev-server --mode development"
+    "start": "nodemon --watch ./loaders --exec webpack-dev-server --mode development"
   },
   "keywords": [],
   "author": "",

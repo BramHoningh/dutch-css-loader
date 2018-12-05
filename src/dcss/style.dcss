@@ -1,5 +1,3 @@
-@import "file/van/file.dcss";
-
 .title {
     ruimte-boven: 20pixels;
     tekst-kleur: wit;
@@ -8,10 +6,4 @@
 
 .test {
     tekst-grootte: 20pixels;
-}
-
-@media screen and (min-width: 450pixels) {
-    .title {
-        tekst-kleur: geel;
-    }
 }
