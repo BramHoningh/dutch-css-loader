@@ -45,44 +45,44 @@
     "type": "animation"
   },
   {
-    "property": "",
+    "property": "animatie-looptijd",
     "translation": "animation-duration",
-    "type": ""
+    "type": "animation"
   },
   {
-    "property": "",
+    "property": "animatie-vul-modus",
     "translation": "animation-fill-mode",
-    "type": ""
+    "type": "animation"
   },
   {
-    "property": "",
+    "property": "animatie-herhaling-telling",
     "translation": "animation-iteration-count",
-    "type": ""
+    "type": "animation"
   },
   {
-    "property": "",
+    "property": "animatie-naam",
     "translation": "animation-name",
-    "type": ""
+    "type": "animation"
   },
   {
-    "property": "",
+    "property": "animatie-afspeel-status",
     "translation": "animation-play-state",
-    "type": ""
+    "type": "animation"
   },
   {
-    "property": "",
+    "property": "animatie-tijd-functie",
     "translation": "animation-timing-function",
-    "type": ""
+    "type": "animation"
   },
   {
-    "property": "",
+    "property": "verschijning",
     "translation": "appearance",
-    "type": ""
+    "type": "appearance"
   },
   {
-    "property": "",
+    "property": "azimuth",
     "translation": "azimuth",
-    "type": ""
+    "type": "position"
   },
   {
     "property": "",

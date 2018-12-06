@@ -4,5 +4,19 @@
   "afwisselen": "alternate",
   "afwisselen-omgekeerd": "aleternate-reverse",
   "aanvankelijk": "initial",
-  "erven": "inherit"
+  "erven": "inherit",
+  "vooruit": "forwards",
+  "achteruit": "backwards",
+  "beide": "both",
+  "oneindig": "infinite",
+  "geen": "none",
+  "gepauseerd": "paused",
+  "lopend": "running",
+  "lineair": "linear",
+  "gemak": "ease",
+  "gemak-in": "ease-in",
+  "gemak-uit": "ease-out",
+  "gemak-in-out": "ease-in-out",
+  "stap-start": "step-start",
+  "stap-einde": "step-end"
 }
