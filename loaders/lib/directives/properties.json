@@ -1,48 +1,48 @@
 [
   {
-    "property": "",
+    "property": "--*",
     "translation": "--*",
-    "type": ""
+    "type": "variable"
   },
   {
-    "property": "",
+    "property": "uitlijnen-inhoud",
     "translation": "align-content",
-    "type": ""
+    "type": "position"
   },
   {
-    "property": "",
+    "property": "uitlijnen-onderdelen",
     "translation": "align-items",
-    "type": ""
+    "type": "position"
   },
   {
-    "property": "",
+    "property": "uitlijnen-zelf",
     "translation": "align-self",
-    "type": ""
+    "type": "position"
   },
   {
-    "property": "",
+    "property": "opstelling-basislijn",
     "translation": "alignment-baseline",
-    "type": ""
+    "type": "position"
   },
   {
-    "property": "",
+    "property": "alles",
     "translation": "all",
-    "type": ""
+    "type": "position"
   },
   {
-    "property": "",
+    "property": "animatie",
     "translation": "animation",
-    "type": ""
+    "type": "animation"
   },
   {
-    "property": "",
+    "property": "animatie-vertraging",
     "translation": "animation-delay",
-    "type": ""
+    "type": "animation"
   },
   {
-    "property": "",
+    "property": "animatie-richting",
     "translation": "animation-direction",
-    "type": ""
+    "type": "animation"
   },
   {
     "property": "",

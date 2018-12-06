@@ -1,0 +1,13 @@
+{
+  "automatisch": "auto",
+  "uitrekken": "stretch",
+  "midden": "center",
+  "buigen-begin": "flex-start",
+  "buigen-einde": "flex-end",
+  "ruimte-tussen": "space-between",
+  "ruimte-rondom": "space-around",
+  "aanvankelijk": "initial",
+  "erven": "inherit",
+  "basislijn": "baseline",
+  "ongezet": "unset"
+}

@@ -1,4 +1,4 @@
-const colors = require('./colors.json');
+const colors = require('./translations/colors.json');
 
 module.exports = function translateValue(value, type) {
   if (!type) throw new Error('Value type is not defined');
