@@ -1,0 +1,10 @@
+{
+  "name": "css-list-generator",
+  "version": "1.0.0",
+  "scripts": {
+    "gen": "node index.js",
+    "test": "npm run"
+  },
+  "main": "index.js",
+  "license": "MIT"
+}
