@@ -1,2572 +1,2054 @@
-[
-  {
+{
+  "-": {
     "property": "--*",
-    "translation": "--*",
-    "type": "variable"
+    "type": ""
   },
-  {
-    "property": "uitlijnen-inhoud",
-    "translation": "align-content",
-    "type": "position"
+  "uitlijnen-content": {
+    "property": "align-content",
+    "type": ""
   },
-  {
-    "property": "uitlijnen-onderdelen",
-    "translation": "align-items",
-    "type": "position"
+  "uitlijnen-onderdelen": {
+    "property": "align-items",
+    "type": ""
   },
-  {
-    "property": "uitlijnen-zelf",
-    "translation": "align-self",
-    "type": "position"
+  "uitlijnen-zelf": {
+    "property": "align-self",
+    "type": ""
   },
-  {
-    "property": "opstelling-basislijn",
-    "translation": "alignment-baseline",
-    "type": "position"
+  "uitgelijnd-basislijn": {
+    "property": "alignment-baseline",
+    "type": ""
   },
-  {
-    "property": "alles",
-    "translation": "all",
-    "type": "position"
+  "alles": {
+    "property": "all",
+    "type": ""
   },
-  {
-    "property": "animatie",
-    "translation": "animation",
-    "type": "animation"
+  "animatie": {
+    "property": "animation",
+    "type": ""
   },
-  {
-    "property": "animatie-vertraging",
-    "translation": "animation-delay",
-    "type": "animation"
+  "animatie-vertraging": {
+    "property": "animation-delay",
+    "type": ""
   },
-  {
-    "property": "animatie-richting",
-    "translation": "animation-direction",
-    "type": "animation"
+  "animatie-richting": {
+    "property": "animation-direction",
+    "type": ""
   },
-  {
-    "property": "animatie-looptijd",
-    "translation": "animation-duration",
-    "type": "animation"
+  "animatie-looptijd": {
+    "property": "animation-duration",
+    "type": ""
   },
-  {
-    "property": "animatie-vul-modus",
-    "translation": "animation-fill-mode",
-    "type": "animation"
+  "animatie-vullen-modus": {
+    "property": "animation-fill-mode",
+    "type": ""
   },
-  {
-    "property": "animatie-herhaling-telling",
-    "translation": "animation-iteration-count",
-    "type": "animation"
+  "animatie-iteratie-telling": {
+    "property": "animation-iteration-count",
+    "type": ""
   },
-  {
-    "property": "animatie-naam",
-    "translation": "animation-name",
-    "type": "animation"
+  "animatie-naam": {
+    "property": "animation-name",
+    "type": ""
   },
-  {
-    "property": "animatie-afspeel-status",
-    "translation": "animation-play-state",
-    "type": "animation"
+  "animatie-afspeel-status": {
+    "property": "animation-play-state",
+    "type": ""
   },
-  {
-    "property": "animatie-tijd-functie",
-    "translation": "animation-timing-function",
-    "type": "animation"
+  "animatie-tijd-functie": {
+    "property": "animation-timing-function",
+    "type": ""
   },
-  {
-    "property": "verschijning",
-    "translation": "appearance",
-    "type": "appearance"
+  "verschijning": {
+    "property": "appearance",
+    "type": ""
   },
-  {
+  "azimuth": {
     "property": "azimuth",
-    "translation": "azimuth",
-    "type": "position"
-  },
-  {
-    "property": "",
-    "translation": "background",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "background-attachment",
+  "achtergrond": {
+    "property": "background",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "background-blend-mode",
+  "achtergrond-aanhangsel": {
+    "property": "background-attachment",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "background-clip",
+  "achtergrond-mengsel-modus": {
+    "property": "background-blend-mode",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "background-color",
+  "achtergrond-klem": {
+    "property": "background-clip",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "background-image",
+  "achtergrond-kleur": {
+    "property": "background-color",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "background-origin",
+  "achtergrond-afbeelding": {
+    "property": "background-image",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "background-position",
+  "achtergrond-oorsprong": {
+    "property": "background-origin",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "background-repeat",
+  "achtergrond-positie": {
+    "property": "background-position",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "background-size",
+  "achtergrond-herhaling": {
+    "property": "background-repeat",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "baseline-shift",
+  "achtergrond-grote": {
+    "property": "background-size",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "block-ellipsis",
+  "basislijn-verschuiving": {
+    "property": "baseline-shift",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "block-overflow",
+  "blok-ellips": {
+    "property": "block-ellipsis",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "block-size",
+  "blok-overloop": {
+    "property": "block-overflow",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "block-step",
+  "blok-grote": {
+    "property": "block-size",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "block-step-align",
+  "blok-stap": {
+    "property": "block-step",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "block-step-insert",
+  "blok-stap-uitlijnen": {
+    "property": "block-step-align",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "block-step-round",
+  "blok-stap-invoegen": {
+    "property": "block-step-insert",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "block-step-size",
+  "blok-stap-rond": {
+    "property": "block-step-round",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "bookmark-label",
+  "blok-stap-grote": {
+    "property": "block-step-size",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "bookmark-level",
+  "bladwijzer-etiket": {
+    "property": "bookmark-label",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "bookmark-state",
+  "bladwijzer-niveau": {
+    "property": "bookmark-level",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border",
+  "bladwijzer-status": {
+    "property": "bookmark-state",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-block",
+  "rand": {
+    "property": "border",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-block-color",
+  "rand-blok": {
+    "property": "border-block",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-block-end",
+  "rand-blok-kleur": {
+    "property": "border-block-color",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-block-end-color",
+  "rand-blok-einde": {
+    "property": "border-block-end",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-block-end-style",
+  "rand-blok-einde-kleur": {
+    "property": "border-block-end-color",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-block-end-width",
+  "rand-blok-einde-stijl": {
+    "property": "border-block-end-style",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-block-start",
+  "rand-blok-einde-breedte": {
+    "property": "border-block-end-width",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-block-start-color",
+  "rand-blok-start": {
+    "property": "border-block-start",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-block-start-style",
+  "rand-blok-start-kleur": {
+    "property": "border-block-start-color",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-block-start-width",
+  "rand-blok-start-stijl": {
+    "property": "border-block-start-style",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-block-style",
+  "rand-blok-start-breedte": {
+    "property": "border-block-start-width",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-block-width",
+  "rand-blok-stijl": {
+    "property": "border-block-style",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-bottom",
+  "rand-blok-breedte": {
+    "property": "border-block-width",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-bottom-color",
+  "rand-onderkant": {
+    "property": "border-bottom",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-bottom-left-radius",
+  "rand-onderkant-kleur": {
+    "property": "border-bottom-color",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-bottom-right-radius",
+  "rand-onderkant-links-ronding": {
+    "property": "border-bottom-left-radius",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-bottom-style",
+  "rand-onderkant-rechts-ronding": {
+    "property": "border-bottom-right-radius",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-bottom-width",
+  "rand-onderkant-stijl": {
+    "property": "border-bottom-style",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-boundary",
+  "rand-onderkant-breedte": {
+    "property": "border-bottom-width",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-collapse",
+  "rand-grens": {
+    "property": "border-boundary",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-color",
+  "rand-inklappen": {
+    "property": "border-collapse",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-end-end-radius",
+  "rand-kleur": {
+    "property": "border-color",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-end-start-radius",
+  "rand-einde-einde-ronding": {
+    "property": "border-end-end-radius",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-image",
+  "rand-einde-start-ronding": {
+    "property": "border-end-start-radius",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-image-outset",
+  "rand-afbeelding": {
+    "property": "border-image",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-image-repeat",
+  "rand-afbeelding-begin": {
+    "property": "border-image-outset",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-image-slice",
+  "rand-afbeelding-herhaling": {
+    "property": "border-image-repeat",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-image-source",
+  "rand-afbeelding-deel": {
+    "property": "border-image-slice",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-image-width",
+  "rand-afbeelding-bron": {
+    "property": "border-image-source",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-inline",
+  "rand-afbeelding-breedte": {
+    "property": "border-image-width",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-inline-color",
+  "rand-inlijn": {
+    "property": "border-inline",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-inline-end",
+  "rand-inlijn-kleur": {
+    "property": "border-inline-color",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-inline-end-color",
+  "rand-inlijn-einde": {
+    "property": "border-inline-end",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-inline-end-style",
+  "rand-inlijn-einde-kleur": {
+    "property": "border-inline-end-color",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-inline-end-width",
+  "rand-inlijn-einde-stijl": {
+    "property": "border-inline-end-style",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-inline-start",
+  "rand-inlijn-einde-breedte": {
+    "property": "border-inline-end-width",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-inline-start-color",
+  "rand-inlijn-start": {
+    "property": "border-inline-start",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-inline-start-style",
+  "rand-inlijn-start-kleur": {
+    "property": "border-inline-start-color",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-inline-start-width",
+  "rand-inlijn-start-stijl": {
+    "property": "border-inline-start-style",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-inline-style",
+  "rand-inlijn-start-breedte": {
+    "property": "border-inline-start-width",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-inline-width",
+  "rand-inlijn-stijl": {
+    "property": "border-inline-style",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-left",
+  "rand-inlijn-breedte": {
+    "property": "border-inline-width",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-left-color",
+  "rand-links": {
+    "property": "border-left",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-left-style",
+  "rand-links-kleur": {
+    "property": "border-left-color",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-left-width",
+  "rand-links-stijl": {
+    "property": "border-left-style",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-radius",
+  "rand-links-breedte": {
+    "property": "border-left-width",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-right",
+  "rand-ronding": {
+    "property": "border-radius",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-right-color",
+  "rand-rechts": {
+    "property": "border-right",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-right-style",
+  "rand-rechts-kleur": {
+    "property": "border-right-color",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-right-width",
+  "rand-rechts-stijl": {
+    "property": "border-right-style",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-spacing",
+  "rand-rechts-breedte": {
+    "property": "border-right-width",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-start-end-radius",
+  "rand-tussenruimte": {
+    "property": "border-spacing",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-start-start-radius",
+  "rand-start-einde-ronding": {
+    "property": "border-start-end-radius",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-style",
+  "rand-start-start-ronding": {
+    "property": "border-start-start-radius",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-top",
+  "rand-stijl": {
+    "property": "border-style",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-top-color",
+  "rand-boven": {
+    "property": "border-top",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-top-left-radius",
+  "rand-boven-kleur": {
+    "property": "border-top-color",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-top-right-radius",
+  "rand-boven-links-ronding": {
+    "property": "border-top-left-radius",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-top-style",
+  "rand-boven-rechts-ronding": {
+    "property": "border-top-right-radius",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-top-width",
+  "rand-boven-stijl": {
+    "property": "border-top-style",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "border-width",
+  "rand-boven-breedte": {
+    "property": "border-top-width",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "bottom",
+  "rand-breedte": {
+    "property": "border-width",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "box-decoration-break",
+  "onderkant": {
+    "property": "bottom",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "box-shadow",
+  "doos-decoratie-afbreken": {
+    "property": "box-decoration-break",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "box-sizing",
+  "doos-schaduw": {
+    "property": "box-shadow",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "box-snap",
+  "doos-vergroting": {
+    "property": "box-sizing",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "break-after",
+  "doos-knip": {
+    "property": "box-snap",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "break-before",
+  "afbreken-na": {
+    "property": "break-after",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "break-inside",
+  "afbreken-voor": {
+    "property": "break-before",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "caption-side",
+  "afbreken-binnen": {
+    "property": "break-inside",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "caret",
+  "onderschrift-kant": {
+    "property": "caption-side",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "caret-color",
+  "dakje": {
+    "property": "caret",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "caret-shape",
+  "dakje-kleur": {
+    "property": "caret-color",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "chains",
+  "dakje-vorm": {
+    "property": "caret-shape",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "clear",
+  "ketting": {
+    "property": "chains",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "clip",
+  "vrij": {
+    "property": "clear",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "clip-path",
+  "klem": {
+    "property": "clip",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "clip-rule",
+  "klem-pad": {
+    "property": "clip-path",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "color",
+  "klem-regel": {
+    "property": "clip-rule",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "color-adjust",
+  "kleur": {
+    "property": "color",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "color-interpolation-filters",
+  "kleur-aanpassing": {
+    "property": "color-adjust",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "column-count",
+  "kleur-inlassing-zuiveren": {
+    "property": "color-interpolation-filters",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "column-fill",
+  "kolom-telling": {
+    "property": "column-count",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "column-gap",
+  "kolom-vullen": {
+    "property": "column-fill",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "column-rule",
+  "kolom-kloof": {
+    "property": "column-gap",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "column-rule-color",
+  "kolom-regel": {
+    "property": "column-rule",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "column-rule-style",
+  "kolom-regel-kleur": {
+    "property": "column-rule-color",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "column-rule-width",
+  "kolom-regel-stijl": {
+    "property": "column-rule-style",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "column-span",
+  "kolom-regel-breedte": {
+    "property": "column-rule-width",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "column-width",
+  "kolom-spanwijdte": {
+    "property": "column-span",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "columns",
+  "kolom-breedte": {
+    "property": "column-width",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "contain",
+  "kolommen": {
+    "property": "columns",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "content",
+  "contain": {
+    "property": "contain",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "continue",
+  "content": {
+    "property": "content",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "counter-increment",
+  "vedergaan": {
+    "property": "continue",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "counter-reset",
+  "teller-aanwas": {
+    "property": "counter-increment",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "counter-set",
+  "teller-opnieuw": {
+    "property": "counter-reset",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "cue",
+  "teller-zetten": {
+    "property": "counter-set",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "cue-after",
+  "keu": {
+    "property": "cue",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "cue-before",
+  "keu-na": {
+    "property": "cue-after",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "cursor",
+  "keu-voor": {
+    "property": "cue-before",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "direction",
+  "muis": {
+    "property": "cursor",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "display",
+  "richting": {
+    "property": "direction",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "dominant-baseline",
+  "toon": {
+    "property": "display",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "elevation",
+  "dominant-basislijn": {
+    "property": "dominant-baseline",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "empty-cells",
+  "verhoging": {
+    "property": "elevation",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "fill",
+  "leeg-cellen": {
+    "property": "empty-cells",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "fill-break",
+  "vullen": {
+    "property": "fill",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "fill-color",
+  "vullen-afbreken": {
+    "property": "fill-break",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "fill-image",
+  "vullen-kleur": {
+    "property": "fill-color",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "fill-opacity",
+  "vullen-afbeelding": {
+    "property": "fill-image",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "fill-origin",
+  "vullen-doorzichtigheid": {
+    "property": "fill-opacity",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "fill-position",
+  "vullen-oorsprong": {
+    "property": "fill-origin",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "fill-repeat",
+  "vullen-positie": {
+    "property": "fill-position",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "fill-rule",
+  "vullen-herhaling": {
+    "property": "fill-repeat",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "fill-size",
+  "vullen-regel": {
+    "property": "fill-rule",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "filter",
+  "vullen-grote": {
+    "property": "fill-size",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "flex",
+  "filtreren": {
+    "property": "filter",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "flex-basis",
+  "flexibel": {
+    "property": "flex",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "flex-direction",
+  "flexibel-basis": {
+    "property": "flex-basis",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "flex-flow",
+  "flexibel-richting": {
+    "property": "flex-direction",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "flex-grow",
+  "flexibel-stroom": {
+    "property": "flex-flow",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "flex-shrink",
+  "flexibel-groeien": {
+    "property": "flex-grow",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "flex-wrap",
+  "flexibel-krimpen": {
+    "property": "flex-shrink",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "float",
+  "flexibel-inpakken": {
+    "property": "flex-wrap",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "float-defer",
+  "drijf": {
+    "property": "float",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "float-offset",
+  "drijf-uitstel": {
+    "property": "float-defer",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "float-reference",
+  "drijf-afstand": {
+    "property": "float-offset",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "flood-color",
+  "drijf-referentie": {
+    "property": "float-reference",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "flood-opacity",
+  "overstroming-kleur": {
+    "property": "flood-color",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "flow",
+  "overstroming-doorzichtigheid": {
+    "property": "flood-opacity",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "flow-from",
+  "stroom": {
+    "property": "flow",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "flow-into",
+  "stroom-van": {
+    "property": "flow-from",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font",
+  "stroom-in": {
+    "property": "flow-into",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-family",
+  "lettertype": {
+    "property": "font",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-feature-settings",
+  "lettertype-familie": {
+    "property": "font-family",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-kerning",
+  "lettertype-kenmerk-instelling": {
+    "property": "font-feature-settings",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-language-override",
+  "lettertype-kerning": {
+    "property": "font-kerning",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-max-size",
+  "lettertype-taal-overijden": {
+    "property": "font-language-override",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-min-size",
+  "lettertype-maximaal-grote": {
+    "property": "font-max-size",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-optical-sizing",
+  "lettertype-minimaal-grote": {
+    "property": "font-min-size",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-palette",
+  "lettertype-optisch-vergroting": {
+    "property": "font-optical-sizing",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-size",
+  "lettertype-palet": {
+    "property": "font-palette",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-size-adjust",
+  "lettertype-grote": {
+    "property": "font-size",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-stretch",
+  "lettertype-grote-aanpassing": {
+    "property": "font-size-adjust",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-style",
+  "lettertype-uitstrekken": {
+    "property": "font-stretch",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-synthesis",
+  "lettertype-stijl": {
+    "property": "font-style",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-synthesis-small-caps",
+  "lettertype-synthesis": {
+    "property": "font-synthesis",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-synthesis-style",
+  "lettertype-synthesis-klein-kap": {
+    "property": "font-synthesis-small-caps",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-synthesis-weight",
+  "lettertype-synthesis-stijl": {
+    "property": "font-synthesis-style",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-variant",
+  "lettertype-synthesis-gewicht": {
+    "property": "font-synthesis-weight",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-variant-alternates",
+  "lettertype-variant": {
+    "property": "font-variant",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-variant-caps",
+  "lettertype-variant-plaatsvervangers": {
+    "property": "font-variant-alternates",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-variant-east-asian",
+  "lettertype-variant-kap": {
+    "property": "font-variant-caps",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-variant-emoji",
+  "lettertype-variant-oost-aziatisch": {
+    "property": "font-variant-east-asian",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-variant-ligatures",
+  "lettertype-variant-emoji": {
+    "property": "font-variant-emoji",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-variant-numeric",
+  "lettertype-variant-ligaturen": {
+    "property": "font-variant-ligatures",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-variant-position",
+  "lettertype-variant-numerieke": {
+    "property": "font-variant-numeric",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-variation-settings",
+  "lettertype-variant-positie": {
+    "property": "font-variant-position",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "font-weight",
+  "lettertype-variatie-instelling": {
+    "property": "font-variation-settings",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "footnote-display",
+  "lettertype-gewicht": {
+    "property": "font-weight",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "footnote-policy",
+  "voetnoot-toon": {
+    "property": "footnote-display",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "gap",
+  "voetnoot-beleid": {
+    "property": "footnote-policy",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "glyph-orientation-vertical",
+  "kloof": {
+    "property": "gap",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "grid",
+  "glyph-orientatie-verticaal": {
+    "property": "glyph-orientation-vertical",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "grid-area",
+  "rooster": {
+    "property": "grid",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "grid-auto-columns",
+  "rooster-gebied": {
+    "property": "grid-area",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "grid-auto-flow",
+  "rooster-automatisch-kolommen": {
+    "property": "grid-auto-columns",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "grid-auto-rows",
+  "rooster-automatisch-stroom": {
+    "property": "grid-auto-flow",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "grid-column",
+  "rooster-automatisch-rijen": {
+    "property": "grid-auto-rows",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "grid-column-end",
+  "rooster-kolom": {
+    "property": "grid-column",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "grid-column-start",
+  "rooster-kolom-einde": {
+    "property": "grid-column-end",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "grid-row",
+  "rooster-kolom-start": {
+    "property": "grid-column-start",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "grid-row-end",
+  "rooster-rij": {
+    "property": "grid-row",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "grid-row-start",
+  "rooster-rij-einde": {
+    "property": "grid-row-end",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "grid-template",
+  "rooster-rij-start": {
+    "property": "grid-row-start",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "grid-template-areas",
+  "rooster-sjabloon": {
+    "property": "grid-template",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "grid-template-columns",
+  "rooster-sjabloon-gebieden": {
+    "property": "grid-template-areas",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "grid-template-rows",
+  "rooster-sjabloon-kolommen": {
+    "property": "grid-template-columns",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "hanging-punctuation",
+  "rooster-sjabloon-rijen": {
+    "property": "grid-template-rows",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "height",
+  "opknoping-interpunctie": {
+    "property": "hanging-punctuation",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "hyphenate-character",
+  "hoogte": {
+    "property": "height",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "hyphenate-limit-chars",
+  "koppelteken-karakter": {
+    "property": "hyphenate-character",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "hyphenate-limit-last",
+  "koppelteken-limiet-chars": {
+    "property": "hyphenate-limit-chars",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "hyphenate-limit-lines",
+  "koppelteken-limiet-laatste": {
+    "property": "hyphenate-limit-last",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "hyphenate-limit-zone",
+  "koppelteken-limiet-lijnen": {
+    "property": "hyphenate-limit-lines",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "hyphens",
+  "koppelteken-limiet-zone": {
+    "property": "hyphenate-limit-zone",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "image-orientation",
+  "koppeltekens": {
+    "property": "hyphens",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "image-rendering",
+  "afbeelding-orientatie": {
+    "property": "image-orientation",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "image-resolution",
+  "afbeelding-weergave": {
+    "property": "image-rendering",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "initial-letters",
+  "afbeelding-resolutie": {
+    "property": "image-resolution",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "initial-letters-align",
+  "aanvang-letters": {
+    "property": "initial-letters",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "initial-letters-wrap",
+  "aanvang-letters-uitlijnen": {
+    "property": "initial-letters-align",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "inline-size",
+  "aanvang-letters-inpakken": {
+    "property": "initial-letters-wrap",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "inline-sizing",
+  "inlijn-grote": {
+    "property": "inline-size",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "inset",
+  "inlijn-vergroting": {
+    "property": "inline-sizing",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "inset-after",
+  "inzet": {
+    "property": "inset",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "inset-before",
+  "inzet-na": {
+    "property": "inset-after",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "inset-block",
+  "inzet-voor": {
+    "property": "inset-before",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "inset-block-end",
+  "inzet-blok": {
+    "property": "inset-block",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "inset-block-start",
+  "inzet-blok-einde": {
+    "property": "inset-block-end",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "inset-end",
+  "inzet-blok-start": {
+    "property": "inset-block-start",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "inset-inline",
+  "inzet-einde": {
+    "property": "inset-end",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "inset-inline-end",
+  "inzet-inlijn": {
+    "property": "inset-inline",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "inset-inline-start",
+  "inzet-inlijn-einde": {
+    "property": "inset-inline-end",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "inset-start",
+  "inzet-inlijn-start": {
+    "property": "inset-inline-start",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "isolation",
+  "inzet-start": {
+    "property": "inset-start",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "justify-content",
+  "izolatie": {
+    "property": "isolation",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "justify-items",
+  "rechtvaardig-content": {
+    "property": "justify-content",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "justify-self",
+  "rechtvaardig-onderdelen": {
+    "property": "justify-items",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "leading-trim",
+  "rechtvaardig-zelf": {
+    "property": "justify-self",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "leading-trim-over",
+  "leidend-trimmen": {
+    "property": "leading-trim",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "leading-trim-under",
+  "leidend-trimmen-overheen": {
+    "property": "leading-trim-over",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "left",
+  "leidend-trimmen-onder": {
+    "property": "leading-trim-under",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "letter-spacing",
+  "links": {
+    "property": "left",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "lighting-color",
+  "letter-tussenruimte": {
+    "property": "letter-spacing",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "line-break",
+  "lichten-kleur": {
+    "property": "lighting-color",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "line-clamp",
+  "lijn-afbreken": {
+    "property": "stroke-break",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "line-grid",
+  "lijn-klem": {
+    "property": "line-clamp",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "line-height",
+  "lijn-rooster": {
+    "property": "line-grid",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "line-height-step",
+  "lijn-hoogte": {
+    "property": "line-height",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "line-padding",
+  "lijn-hoogte-stap": {
+    "property": "line-height-step",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "line-sizing",
+  "lijn-vulling": {
+    "property": "line-padding",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "line-snap",
+  "lijn-vergroting": {
+    "property": "line-sizing",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "list-style",
+  "lijn-knip": {
+    "property": "line-snap",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "list-style-image",
+  "lijst-stijl": {
+    "property": "list-style",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "list-style-position",
+  "lijst-stijl-afbeelding": {
+    "property": "list-style-image",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "list-style-type",
+  "lijst-stijl-positie": {
+    "property": "list-style-position",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "margin",
+  "lijst-stijl-type": {
+    "property": "list-style-type",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "margin-block",
+  "marge": {
+    "property": "margin",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "margin-block-end",
+  "marge-blok": {
+    "property": "margin-block",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "margin-block-start",
+  "marge-blok-einde": {
+    "property": "margin-block-end",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "margin-bottom",
+  "marge-blok-start": {
+    "property": "margin-block-start",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "margin-inline",
+  "marge-onderkant": {
+    "property": "margin-bottom",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "margin-inline-end",
+  "marge-inlijn": {
+    "property": "margin-inline",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "margin-inline-start",
+  "marge-inlijn-einde": {
+    "property": "margin-inline-end",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "margin-left",
+  "marge-inlijn-start": {
+    "property": "margin-inline-start",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "margin-right",
+  "marge-links": {
+    "property": "margin-left",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "margin-top",
+  "marge-rechts": {
+    "property": "margin-right",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "margin-trim",
+  "marge-boven": {
+    "property": "margin-top",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "marker",
+  "marge-trimmen": {
+    "property": "margin-trim",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "marker-end",
+  "markeer": {
+    "property": "marker",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "marker-knockout-left",
+  "markeer-einde": {
+    "property": "marker-end",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "marker-knockout-right",
+  "markeer-knockout-links": {
+    "property": "marker-knockout-left",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "marker-mid",
+  "markeer-knockout-rechts": {
+    "property": "marker-knockout-right",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "marker-pattern",
+  "markeer-midden": {
+    "property": "marker-mid",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "marker-segment",
+  "markeer-patroon": {
+    "property": "marker-pattern",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "marker-side",
+  "markeer-segment": {
+    "property": "marker-segment",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "marker-start",
+  "markeer-kant": {
+    "property": "marker-side",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "mask",
+  "markeer-start": {
+    "property": "marker-start",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "mask-border",
+  "maskeren": {
+    "property": "mask",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "mask-border-mode",
+  "maskeren-rand": {
+    "property": "mask-border",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "mask-border-outset",
+  "maskeren-rand-modus": {
+    "property": "mask-border-mode",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "mask-border-repeat",
+  "maskeren-rand-begin": {
+    "property": "mask-border-outset",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "mask-border-slice",
+  "maskeren-rand-herhaling": {
+    "property": "mask-border-repeat",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "mask-border-source",
+  "maskeren-rand-deel": {
+    "property": "mask-border-slice",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "mask-border-width",
+  "maskeren-rand-bron": {
+    "property": "mask-border-source",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "mask-clip",
+  "maskeren-rand-breedte": {
+    "property": "mask-border-width",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "mask-composite",
+  "maskeren-klem": {
+    "property": "mask-clip",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "mask-image",
+  "maskeren-compositie": {
+    "property": "mask-composite",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "mask-mode",
+  "maskeren-afbeelding": {
+    "property": "mask-image",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "mask-origin",
+  "maskeren-modus": {
+    "property": "mask-mode",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "mask-position",
+  "maskeren-oorsprong": {
+    "property": "mask-origin",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "mask-repeat",
+  "maskeren-positie": {
+    "property": "mask-position",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "mask-size",
+  "maskeren-herhaling": {
+    "property": "mask-repeat",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "mask-type",
+  "maskeren-grote": {
+    "property": "mask-size",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "max-block-size",
+  "maskeren-type": {
+    "property": "mask-type",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "max-height",
+  "maximaal-blok-grote": {
+    "property": "max-block-size",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "max-inline-size",
+  "maximaal-hoogte": {
+    "property": "max-height",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "max-lines",
+  "maximaal-inlijn-grote": {
+    "property": "max-inline-size",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "max-width",
+  "maximaal-lijnen": {
+    "property": "max-lines",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "min-block-size",
+  "maximaal-breedte": {
+    "property": "max-width",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "min-height",
+  "minimaal-blok-grote": {
+    "property": "min-block-size",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "min-inline-size",
+  "minimaal-hoogte": {
+    "property": "min-height",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "min-width",
+  "minimaal-inlijn-grote": {
+    "property": "min-inline-size",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "mix-blend-mode",
+  "minimaal-breedte": {
+    "property": "min-width",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "nav-down",
+  "mix-mengsel-modus": {
+    "property": "mix-blend-mode",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "nav-left",
+  "navigeer-beneden": {
+    "property": "nav-down",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "nav-right",
+  "navigeer-links": {
+    "property": "nav-left",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "nav-up",
+  "navigeer-rechts": {
+    "property": "nav-right",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "object-fit",
+  "navigeer-boven": {
+    "property": "nav-up",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "object-position",
+  "voorwerp-passen": {
+    "property": "object-fit",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "offset",
+  "voorwerp-positie": {
+    "property": "object-position",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "offset-after",
+  "afstand": {
+    "property": "offset",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "offset-anchor",
+  "afstand-na": {
+    "property": "offset-after",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "offset-before",
+  "afstand-anker": {
+    "property": "offset-anchor",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "offset-distance",
+  "afstand-voor": {
+    "property": "offset-before",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "offset-end",
+  "afstand-afstand": {
+    "property": "offset-distance",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "offset-path",
+  "afstand-einde": {
+    "property": "offset-end",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "offset-position",
+  "afstand-pad": {
+    "property": "offset-path",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "offset-rotate",
+  "afstand-positie": {
+    "property": "offset-position",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "offset-start",
+  "afstand-rotatie": {
+    "property": "offset-rotate",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "opacity",
+  "afstand-start": {
+    "property": "offset-start",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "order",
+  "doorzichtigheid": {
+    "property": "opacity",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "orphans",
+  "rangschik": {
+    "property": "order",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "outline",
+  "wees": {
+    "property": "orphans",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "outline-color",
+  "uitlijn": {
+    "property": "outline",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "outline-offset",
+  "uitlijn-kleur": {
+    "property": "outline-color",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "outline-style",
+  "uitlijn-afstand": {
+    "property": "outline-offset",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "outline-width",
+  "uitlijn-stijl": {
+    "property": "outline-style",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "overflow",
+  "uitlijn-breedte": {
+    "property": "outline-width",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "overflow-block",
+  "overloop": {
+    "property": "overflow",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "overflow-inline",
+  "overloop-blok": {
+    "property": "overflow-block",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "overflow-wrap",
+  "overloop-inlijn": {
+    "property": "overflow-inline",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "overflow-x",
+  "overloop-inpakken": {
+    "property": "overflow-wrap",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "overflow-y",
+  "overloop-x": {
+    "property": "overflow-x",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "padding",
+  "overloop-y": {
+    "property": "overflow-y",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "padding-block",
+  "vulling": {
+    "property": "padding",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "padding-block-end",
+  "vulling-blok": {
+    "property": "padding-block",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "padding-block-start",
+  "vulling-blok-einde": {
+    "property": "padding-block-end",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "padding-bottom",
+  "vulling-blok-start": {
+    "property": "padding-block-start",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "padding-inline",
+  "vulling-onderkant": {
+    "property": "padding-bottom",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "padding-inline-end",
+  "vulling-inlijn": {
+    "property": "padding-inline",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "padding-inline-start",
+  "vulling-inlijn-einde": {
+    "property": "padding-inline-end",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "padding-left",
+  "vulling-inlijn-start": {
+    "property": "padding-inline-start",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "padding-right",
+  "vulling-links": {
+    "property": "padding-left",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "padding-top",
+  "vulling-rechts": {
+    "property": "padding-right",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "page",
+  "vulling-boven": {
+    "property": "padding-top",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "page-break-after",
+  "pagina": {
+    "property": "page",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "page-break-before",
+  "pagina-afbreken-na": {
+    "property": "page-break-after",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "page-break-inside",
+  "pagina-afbreken-voor": {
+    "property": "page-break-before",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "pause",
+  "pagina-afbreken-binnen": {
+    "property": "page-break-inside",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "pause-after",
+  "pauze": {
+    "property": "pause",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "pause-before",
+  "pauze-na": {
+    "property": "pause-after",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "pitch",
+  "pauze-voor": {
+    "property": "pause-before",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "pitch-range",
+  "toonhoogte": {
+    "property": "pitch",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "place-content",
+  "toonhoogte-omvang": {
+    "property": "pitch-range",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "place-items",
+  "plaats-content": {
+    "property": "place-content",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "place-self",
+  "plaats-onderdelen": {
+    "property": "place-items",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "play-during",
+  "plaats-zelf": {
+    "property": "place-self",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "position",
+  "afspeel-gedurende": {
+    "property": "play-during",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "presentation-level",
+  "positie": {
+    "property": "position",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "quotes",
+  "presentatie-niveau": {
+    "property": "presentation-level",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "region-fragment",
+  "quotees": {
+    "property": "quotes",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "resize",
+  "regio-fragment": {
+    "property": "region-fragment",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "rest",
+  "undefined": {
+    "property": "resize",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "rest-after",
+  "rest": {
+    "property": "rest",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "rest-before",
+  "rest-na": {
+    "property": "rest-after",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "richness",
+  "rest-voor": {
+    "property": "rest-before",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "right",
+  "rijkdom": {
+    "property": "richness",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "row-gap",
+  "rechts": {
+    "property": "right",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "ruby-align",
+  "rij-kloof": {
+    "property": "row-gap",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "ruby-merge",
+  "ruby-uitlijnen": {
+    "property": "ruby-align",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "ruby-position",
+  "ruby-samensmelten": {
+    "property": "ruby-merge",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "running",
+  "ruby-positie": {
+    "property": "ruby-position",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-behavior",
+  "rennen": {
+    "property": "running",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-margin",
+  "scroll-gedrag": {
+    "property": "scroll-behavior",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-margin-block",
+  "scroll-marge": {
+    "property": "scroll-margin",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-margin-block-end",
+  "scroll-marge-blok": {
+    "property": "scroll-margin-block",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-margin-block-start",
+  "scroll-marge-blok-einde": {
+    "property": "scroll-margin-block-end",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-margin-bottom",
+  "scroll-marge-blok-start": {
+    "property": "scroll-margin-block-start",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-margin-inline",
+  "scroll-marge-onderkant": {
+    "property": "scroll-margin-bottom",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-margin-inline-end",
+  "scroll-marge-inlijn": {
+    "property": "scroll-margin-inline",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-margin-inline-start",
+  "scroll-marge-inlijn-einde": {
+    "property": "scroll-margin-inline-end",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-margin-left",
+  "scroll-marge-inlijn-start": {
+    "property": "scroll-margin-inline-start",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-margin-right",
+  "scroll-marge-links": {
+    "property": "scroll-margin-left",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-margin-top",
+  "scroll-marge-rechts": {
+    "property": "scroll-margin-right",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-padding",
+  "scroll-marge-boven": {
+    "property": "scroll-margin-top",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-padding-block",
+  "scroll-vulling": {
+    "property": "scroll-padding",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-padding-block-end",
+  "scroll-vulling-blok": {
+    "property": "scroll-padding-block",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-padding-block-start",
+  "scroll-vulling-blok-einde": {
+    "property": "scroll-padding-block-end",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-padding-bottom",
+  "scroll-vulling-blok-start": {
+    "property": "scroll-padding-block-start",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-padding-inline",
+  "scroll-vulling-onderkant": {
+    "property": "scroll-padding-bottom",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-padding-inline-end",
+  "scroll-vulling-inlijn": {
+    "property": "scroll-padding-inline",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-padding-inline-start",
+  "scroll-vulling-inlijn-einde": {
+    "property": "scroll-padding-inline-end",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-padding-left",
+  "scroll-vulling-inlijn-start": {
+    "property": "scroll-padding-inline-start",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-padding-right",
+  "scroll-vulling-links": {
+    "property": "scroll-padding-left",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-padding-top",
+  "scroll-vulling-rechts": {
+    "property": "scroll-padding-right",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-snap-align",
+  "scroll-vulling-boven": {
+    "property": "scroll-padding-top",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-snap-stop",
+  "scroll-knip-uitlijnen": {
+    "property": "scroll-snap-align",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scroll-snap-type",
+  "scroll-knip-stop": {
+    "property": "scroll-snap-stop",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scrollbar-color",
+  "scroll-knip-type": {
+    "property": "scroll-snap-type",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scrollbar-gutter",
+  "scrollbalk-kleur": {
+    "property": "scrollbar-color",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "scrollbar-width",
+  "scrollbalk-goot": {
+    "property": "scrollbar-gutter",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "shape-image-threshold",
+  "scrollbalk-breedte": {
+    "property": "scrollbar-width",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "shape-inside",
+  "vorm-afbeelding-drempel": {
+    "property": "shape-image-threshold",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "shape-margin",
+  "vorm-binnen": {
+    "property": "shape-inside",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "shape-outside",
+  "vorm-marge": {
+    "property": "shape-margin",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "speak",
+  "vorm-buiten": {
+    "property": "shape-outside",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "speak-as",
+  "spreken": {
+    "property": "speak",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "speak-header",
+  "spreken-als": {
+    "property": "speak-as",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "speak-numeral",
+  "spreken-hoofd": {
+    "property": "speak-header",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "speak-punctuation",
+  "spreken-cijfer": {
+    "property": "speak-numeral",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "speech-rate",
+  "spreken-interpunctie": {
+    "property": "speak-punctuation",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "stress",
+  "spreek-koers": {
+    "property": "speech-rate",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "string-set",
+  "spanning": {
+    "property": "stress",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "stroke",
+  "draad-zetten": {
+    "property": "string-set",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "stroke-align",
+  "lijn": {
+    "property": "stroke",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "stroke-alignment",
+  "lijn-uitlijnen": {
+    "property": "stroke-align",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "stroke-break",
+  "lijn-uitgelijnd": {
+    "property": "stroke-alignment",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "stroke-color",
+  "lijn-kleur": {
+    "property": "stroke-color",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "stroke-dash-corner",
+  "lijn-strook-hoek": {
+    "property": "stroke-dash-corner",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "stroke-dash-justify",
+  "lijn-strook-rechtvaardig": {
+    "property": "stroke-dash-justify",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "stroke-dashadjust",
+  "lijn-strookaanpassing": {
+    "property": "stroke-dashadjust",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "stroke-dasharray",
+  "lijn-strookrij": {
+    "property": "stroke-dasharray",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "stroke-dashcorner",
+  "lijn-strookhoek": {
+    "property": "stroke-dashcorner",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "stroke-dashoffset",
+  "lijn-strookafstand": {
+    "property": "stroke-dashoffset",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "stroke-image",
+  "lijn-afbeelding": {
+    "property": "stroke-image",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "stroke-linecap",
+  "lijn-regelgoot": {
+    "property": "stroke-linecap",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "stroke-linejoin",
+  "lijn-regelkoppel": {
+    "property": "stroke-linejoin",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "stroke-miterlimit",
+  "lijn-miterlimit": {
+    "property": "stroke-miterlimit",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "stroke-opacity",
+  "lijn-doorzichtigheid": {
+    "property": "stroke-opacity",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "stroke-origin",
+  "lijn-oorsprong": {
+    "property": "stroke-origin",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "stroke-position",
+  "lijn-positie": {
+    "property": "stroke-position",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "stroke-repeat",
+  "lijn-herhaling": {
+    "property": "stroke-repeat",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "stroke-size",
+  "lijn-grote": {
+    "property": "stroke-size",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "stroke-width",
+  "lijn-breedte": {
+    "property": "stroke-width",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "tab-size",
+  "tab-grote": {
+    "property": "tab-size",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "table-layout",
+  "tabel-opmaak": {
+    "property": "table-layout",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-align",
+  "tekst-uitlijnen": {
+    "property": "text-align",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-align-all",
+  "tekst-uitlijnen-alles": {
+    "property": "text-align-all",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-align-last",
+  "tekst-uitlijnen-laatste": {
+    "property": "text-align-last",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-combine-upright",
+  "tekst-combineer-bovenrechts": {
+    "property": "text-combine-upright",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-decoration",
+  "tekst-decoratie": {
+    "property": "text-decoration",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-decoration-color",
+  "tekst-decoratie-kleur": {
+    "property": "text-decoration-color",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-decoration-line",
+  "tekst-decoratie-lijn": {
+    "property": "text-decoration-line",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-decoration-skip",
+  "tekst-decoratie-overslaan": {
+    "property": "text-decoration-skip",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-decoration-skip-ink",
+  "tekst-decoratie-overslaan-inkt": {
+    "property": "text-decoration-skip-ink",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-decoration-style",
+  "tekst-decoratie-stijl": {
+    "property": "text-decoration-style",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-decoration-width",
+  "tekst-decoratie-breedte": {
+    "property": "text-decoration-width",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-emphasis",
+  "tekst-nadruk": {
+    "property": "text-emphasis",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-emphasis-color",
+  "tekst-nadruk-kleur": {
+    "property": "text-emphasis-color",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-emphasis-position",
+  "tekst-nadruk-positie": {
+    "property": "text-emphasis-position",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-emphasis-skip",
+  "tekst-nadruk-overslaan": {
+    "property": "text-emphasis-skip",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-emphasis-style",
+  "tekst-nadruk-stijl": {
+    "property": "text-emphasis-style",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-group-align",
+  "tekst-groep-uitlijnen": {
+    "property": "text-group-align",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-indent",
+  "tekst-inspring": {
+    "property": "text-indent",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-justify",
+  "tekst-rechtvaardig": {
+    "property": "text-justify",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-orientation",
+  "tekst-orientatie": {
+    "property": "text-orientation",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-overflow",
+  "tekst-overloop": {
+    "property": "text-overflow",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-shadow",
+  "tekst-schaduw": {
+    "property": "text-shadow",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-space-collapse",
+  "tekst-ruimte-inklappen": {
+    "property": "text-space-collapse",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-space-trim",
+  "tekst-ruimte-trimmen": {
+    "property": "text-space-trim",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-spacing",
+  "tekst-tussenruimte": {
+    "property": "text-spacing",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-transform",
+  "tekst-transformatie": {
+    "property": "text-transform",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-underline-offset",
+  "tekst-onderlijn-afstand": {
+    "property": "text-underline-offset",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-underline-position",
+  "tekst-onderlijn-positie": {
+    "property": "text-underline-position",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "text-wrap",
+  "tekst-inpakken": {
+    "property": "text-wrap",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "top",
+  "boven": {
+    "property": "top",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "transform",
+  "transformatie": {
+    "property": "transform",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "transform-box",
+  "transformatie-doos": {
+    "property": "transform-box",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "transform-origin",
+  "transformatie-oorsprong": {
+    "property": "transform-origin",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "transition",
+  "transitie": {
+    "property": "transition",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "transition-delay",
+  "transitie-vertraging": {
+    "property": "transition-delay",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "transition-duration",
+  "transitie-looptijd": {
+    "property": "transition-duration",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "transition-property",
+  "transitie-eigenschap": {
+    "property": "transition-property",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "transition-timing-function",
+  "transitie-tijd-functie": {
+    "property": "transition-timing-function",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "unicode-bidi",
+  "unicode-bidi": {
+    "property": "unicode-bidi",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "user-select",
+  "gebruiker-selecteer": {
+    "property": "user-select",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "vertical-align",
+  "verticaal-uitlijnen": {
+    "property": "vertical-align",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "visibility",
+  "zichtbaarheid": {
+    "property": "visibility",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "voice-balance",
+  "stem-balans": {
+    "property": "voice-balance",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "voice-duration",
+  "stem-looptijd": {
+    "property": "voice-duration",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "voice-family",
+  "stem-familie": {
+    "property": "voice-family",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "voice-pitch",
+  "stem-toonhoogte": {
+    "property": "voice-pitch",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "voice-range",
+  "stem-omvang": {
+    "property": "voice-range",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "voice-rate",
+  "stem-koers": {
+    "property": "voice-rate",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "voice-stress",
+  "stem-spanning": {
+    "property": "voice-stress",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "voice-volume",
+  "stem-volume": {
+    "property": "voice-volume",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "volume",
+  "volume": {
+    "property": "volume",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "white-space",
+  "wit-ruimte": {
+    "property": "white-space",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "widows",
+  "weduwem": {
+    "property": "widows",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "width",
+  "breedte": {
+    "property": "width",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "will-change",
+  "zal-veranderen": {
+    "property": "will-change",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "word-break",
+  "woord-afbreken": {
+    "property": "word-break",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "word-spacing",
+  "woord-tussenruimte": {
+    "property": "word-spacing",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "word-wrap",
+  "woord-inpakken": {
+    "property": "word-wrap",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "wrap-after",
+  "inpakken-na": {
+    "property": "wrap-after",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "wrap-before",
+  "inpakken-voor": {
+    "property": "wrap-before",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "wrap-flow",
+  "inpakken-stroom": {
+    "property": "wrap-flow",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "wrap-inside",
+  "inpakken-binnen": {
+    "property": "wrap-inside",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "wrap-through",
+  "inpakken-door": {
+    "property": "wrap-through",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "writing-mode",
+  "schrift-modus": {
+    "property": "writing-mode",
     "type": ""
   },
-  {
-    "property": "",
-    "translation": "z-index",
+  "z-indexeer": {
+    "property": "z-index",
     "type": ""
   }
-]
+}

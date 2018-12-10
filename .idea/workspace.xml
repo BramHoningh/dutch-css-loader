@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c5795ff-8fb7-4ab4-bf97-b2946ebbc1eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/loaders/lib/values/translations/appearance.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/loaders/lib/directives/properties.json" beforeDir="false" afterPath="$PROJECT_DIR$/loaders/lib/directives/properties.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loaders/lib/values/translations/animation.json" beforeDir="false" afterPath="$PROJECT_DIR$/loaders/lib/values/translations/animation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loaders/lib/values/translations/position.json" beforeDir="false" afterPath="$PROJECT_DIR$/loaders/lib/values/translations/position.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loaders/lib/values/translations/appearance.json" beforeDir="false" afterPath="$PROJECT_DIR$/loaders/lib/values/translations/appearance.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -72,33 +70,34 @@
         <counts>
           <entry key="dcss" value="285" />
           <entry key="js" value="6350" />
-          <entry key="json" value="4522" />
+          <entry key="json" value="9396" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="4522" />
+          <entry key="JSON" value="9396" />
           <entry key="JavaScript" value="6350" />
           <entry key="PLAIN_TEXT" value="285" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="js" value="11" />
-          <entry key="json" value="11" />
+          <entry key="json" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSON" value="11" />
+          <entry key="JSON" value="12" />
           <entry key="JavaScript" value="11" />
         </counts>
       </usages-collector>
@@ -136,8 +135,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/loaders/lib/ParseDcss.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="405">
+              <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -145,26 +144,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/loaders/lib/directives/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="48" selection-start-column="48" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/loaders/lib/directives/properties.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/loaders/lib/directives/properties.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29910">
+              <caret line="1994" column="25" selection-start-line="1994" selection-start-column="25" selection-end-line="1994" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/loaders/lib/values/translations/appearance.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+            <state relative-caret-position="868">
+              <caret line="141" column="44" selection-start-line="141" selection-start-column="44" selection-end-line="141" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -173,7 +172,7 @@
         <entry file="file://$PROJECT_DIR$/loaders/lib/values/translations/position.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
-              <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+              <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -182,7 +181,7 @@
         <entry file="file://$PROJECT_DIR$/loaders/lib/values/translations/animation.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -236,6 +235,7 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
+      <path value="$PROJECT_DIR$/generator/package.json" />
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
@@ -250,13 +250,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="dutch-css-loader" type="b2602c69:ProjectViewProjectNode" />
               <item name="dutch-css-loader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dutch-css-loader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dutch-css-loader" type="462c0819:PsiDirectoryNode" />
+              <item name="generator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dutch-css-loader" type="b2602c69:ProjectViewProjectNode" />
@@ -312,6 +316,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -352,12 +357,14 @@
       <workItem from="1543664257812" duration="6920000" />
       <workItem from="1544007371112" duration="5088000" />
       <workItem from="1544015038872" duration="7253000" />
-      <workItem from="1544094770873" duration="13010000" />
+      <workItem from="1544094770873" duration="13049000" />
+      <workItem from="1544174184974" duration="2874000" />
+      <workItem from="1544433844013" duration="2991000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38517000" />
+    <option name="totallyTimeSpent" value="44421000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1337" extended-state="0" />
@@ -386,12 +393,8 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/../../mm-projects/gsd-m-airforce-com/deploy/web/version/src/inc/script/app/component/event-hero/EventHeroController.js" />
-        <option value="$PROJECT_DIR$/../../mm-projects/gsd-m-airforce-com/deploy/web/version/src/inc/script/app/component/event-hero/EventHeroOptions.js" />
-        <option value="$PROJECT_DIR$/../../mm-projects/gsd-m-airforce-com/deploy/web/version/src/inc/script/app/util/findEventUtils.js" />
-        <option value="$PROJECT_DIR$/../../mm-projects/gsd-m-airforce-com/deploy/web/version/src/inc/script/app/component/AbstractEventTourTypeGridController.js" />
-        <option value="$PROJECT_DIR$/../../mm-projects/gsd-m-airforce-com/deploy/web/version/src/inc/script/app/component/AbstractEventTourTypeGridViewModel.js" />
-        <option value="$PROJECT_DIR$/../../mm-projects/gsd-m-airforce-com/deploy/web/version/src/inc/script/app/data/block-config/EventTourDetailPageBlocks.js" />
+        <option value="$PROJECT_DIR$/../../mm-projects/gsd-m-airforce-com/deploy/web/version/src/inc/script/app/data/block-config/IndemandCareersPageBlocks.js" />
+        <option value="$PROJECT_DIR$/../../mm-projects/gsd-m-airforce-com/deploy/web/version/src/inc/script/app/data/block-config/CareerDetailIndemandPageBlocks.js" />
       </list>
     </option>
   </component>
@@ -453,44 +456,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dcss/style.dcss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loaders/dutch-css-loader.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loaders/lib/directives/test.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loaders/lib/directives/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="48" selection-start-column="48" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/loaders/lib/ParseDcss.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/loaders/lib/directives/test.json" />
     <entry file="file://$PROJECT_DIR$/loaders/lib/values/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -505,31 +471,73 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/generator/newCSS.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-end-line="2054" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dcss/style.dcss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loaders/dutch-css-loader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loaders/lib/ParseDcss.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/loaders/lib/values/translations/position.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
-          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/loaders/lib/values/translations/animation.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/loaders/lib/values/translations/appearance.json">
+    <entry file="file://$PROJECT_DIR$/loaders/lib/directives/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/loaders/lib/directives/properties.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        <state relative-caret-position="29910">
+          <caret line="1994" column="25" selection-start-line="1994" selection-start-column="25" selection-end-line="1994" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loaders/lib/values/translations/appearance.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="868">
+          <caret line="141" column="44" selection-start-line="141" selection-start-column="44" selection-end-line="141" selection-end-column="44" />
         </state>
       </provider>
     </entry>
