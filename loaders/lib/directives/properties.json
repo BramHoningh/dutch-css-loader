@@ -69,43 +69,43 @@
   },
   "achtergrond": {
     "property": "background",
-    "type": ""
+    "type": "background"
   },
   "achtergrond-aanhangsel": {
     "property": "background-attachment",
-    "type": ""
+    "type": "background"
   },
   "achtergrond-mengsel-modus": {
     "property": "background-blend-mode",
-    "type": ""
+    "type": "background"
   },
   "achtergrond-klem": {
     "property": "background-clip",
-    "type": ""
+    "type": "background"
   },
   "achtergrond-kleur": {
     "property": "background-color",
-    "type": ""
+    "type": "background"
   },
   "achtergrond-afbeelding": {
     "property": "background-image",
-    "type": ""
+    "type": "background"
   },
   "achtergrond-oorsprong": {
     "property": "background-origin",
-    "type": ""
+    "type": "background"
   },
   "achtergrond-positie": {
     "property": "background-position",
-    "type": ""
+    "type": "position"
   },
   "achtergrond-herhaling": {
     "property": "background-repeat",
-    "type": ""
+    "type": "background"
   },
   "achtergrond-grote": {
     "property": "background-size",
-    "type": ""
+    "type": "background"
   },
   "basislijn-verschuiving": {
     "property": "baseline-shift",

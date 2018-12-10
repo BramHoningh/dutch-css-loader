@@ -29,5 +29,16 @@
   "rechter-kant achter": "right-side behind",
   "achter": "behind",
   "naar-links": "leftwards",
-  "naar-rechts": "rightwards"
+  "naar-rechts": "rightwards",
+  "links boven": "left top",
+  "links midden": "left center",
+  "links onder": "left bottom",
+  "rechts boven": "right top",
+  "rechts midden": "right center",
+  "rechts onder": "right bottom",
+  "midden boven": "center top",
+  "midden midden": "center center",
+  "midden onder": "center bottom",
+  "boven": "top",
+  "onder": "bottom"
 }
