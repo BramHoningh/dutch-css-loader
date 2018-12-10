@@ -1,71 +1,71 @@
 {
   "-": {
     "property": "--*",
-    "type": ""
+    "type": "variable"
   },
   "uitlijnen-content": {
     "property": "align-content",
-    "type": ""
+    "type": "position"
   },
   "uitlijnen-onderdelen": {
     "property": "align-items",
-    "type": ""
+    "type": "position"
   },
   "uitlijnen-zelf": {
     "property": "align-self",
-    "type": ""
+    "type": "position"
   },
   "uitgelijnd-basislijn": {
     "property": "alignment-baseline",
-    "type": ""
+    "type": "position"
   },
   "alles": {
     "property": "all",
-    "type": ""
+    "type": "position"
   },
   "animatie": {
     "property": "animation",
-    "type": ""
+    "type": "animation"
   },
   "animatie-vertraging": {
     "property": "animation-delay",
-    "type": ""
+    "type": "animation"
   },
   "animatie-richting": {
     "property": "animation-direction",
-    "type": ""
+    "type": "animation"
   },
   "animatie-looptijd": {
     "property": "animation-duration",
-    "type": ""
+    "type": "animation"
   },
   "animatie-vullen-modus": {
     "property": "animation-fill-mode",
-    "type": ""
+    "type": "animation"
   },
   "animatie-iteratie-telling": {
     "property": "animation-iteration-count",
-    "type": ""
+    "type": "animation"
   },
   "animatie-naam": {
     "property": "animation-name",
-    "type": ""
+    "type": "animation"
   },
   "animatie-afspeel-status": {
     "property": "animation-play-state",
-    "type": ""
+    "type": "animation"
   },
   "animatie-tijd-functie": {
     "property": "animation-timing-function",
-    "type": ""
+    "type": "animation"
   },
   "verschijning": {
     "property": "appearance",
-    "type": ""
+    "type": "appearance"
   },
   "azimuth": {
     "property": "azimuth",
-    "type": ""
+    "type": "position"
   },
   "achtergrond": {
     "property": "background",
