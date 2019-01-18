@@ -85,7 +85,7 @@
   },
   "achtergrond-kleur": {
     "property": "background-color",
-    "type": "background"
+    "type": "color"
   },
   "achtergrond-afbeelding": {
     "property": "background-image",
